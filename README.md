@@ -9,6 +9,6 @@ E2B gives your agent a full cloud development environment that's sandboxed. That
 
 These cloud environments are meant to be used for agents. Like a sandboxed playgrounds, where the agent can do whatever it wants.
 
-## [Python SDK]
+## Python SDK
 - [Pypi](https://pypi.org/project/e2b/)
 - [Examples](./python-sdk-example.ipynb)
